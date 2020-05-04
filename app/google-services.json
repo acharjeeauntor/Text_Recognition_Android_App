@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348604315926",
+    "firebase_url": "https://textrecognitionapp-2a201.firebaseio.com",
+    "project_id": "textrecognitionapp-2a201",
+    "storage_bucket": "textrecognitionapp-2a201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348604315926:android:0efdc2db46281ada113837",
+        "android_client_info": {
+          "package_name": "com.auntor.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348604315926-4ai3ibkku49bnatsu8s02sovc23qt2b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_0P0AsyNTusSnhM4aHy16p_orplm5SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348604315926-4ai3ibkku49bnatsu8s02sovc23qt2b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
